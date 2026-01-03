@@ -3,10 +3,20 @@ permalink: card
 ---
 
 ## Attack Card
-![[Attack.jpg|200]]
+![[Attack]]
 
-[[Attack|Look Here!]]
+[[Attack|See here.]]
 ## Cat Cards
-![[BeardCat.jpg|200]]
+
+![[Cat Card]]
 
 [[Cat Card|Look Here!]]
+## Defuse Card
+![[Defuse]]
+
+[[Defuse|See here.]]
+## Exploding Kitten
+
+![[Exploding Kitten]]
+
+[[Exploding Kitten|See here.]]
