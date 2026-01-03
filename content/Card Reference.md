@@ -10,13 +10,9 @@ permalink: card
 
 ![[Cat Card]]
 
-[[Cat Card|Look Here!]]
 ## Defuse Card
 ![[Defuse]]
 
-[[Defuse|See here.]]
 ## Exploding Kitten
 
 ![[Exploding Kitten]]
-
-[[Exploding Kitten|See here.]]
