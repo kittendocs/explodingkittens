@@ -1,5 +1,4 @@
 ---
-title: Attack Card
 permalink: attack
 ---
 
