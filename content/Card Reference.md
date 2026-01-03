@@ -4,8 +4,6 @@ permalink: card
 
 ## Attack Card
 ![[Attack]]
-
-[[Attack|See here.]]
 ## Cat Cards
 
 ![[Cat Card]]
@@ -16,3 +14,5 @@ permalink: card
 ## Exploding Kitten
 
 ![[Exploding Kitten]]
+## Favor
+![[Favor]]
