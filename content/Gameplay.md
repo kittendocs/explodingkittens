@@ -1,0 +1,14 @@
+---
+permalink: how
+---
+## Objective
+*Don't blow up.*
+## Setup
+1. Separate all exploding kittens and put those aside.
+2. Separate all defuse cards and deal one to each player. Shuffle 2 (or as many as you can just not over two) defuses in the deck.
+3. Shuffle.
+4. Deal 7 cards to each player. Everyone should have 8 cards now.
+5. Shuffle the deck and place it face down on the table.
+6. Pick a player to go first.
+
+> [!NOTE] For more in-detail instructions, see [[Setup]].
