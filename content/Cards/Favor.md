@@ -1,3 +1,7 @@
+---
+permalink: favor
+---
+
 ![[Favor.jpg|200]]
 
 When this card is played:

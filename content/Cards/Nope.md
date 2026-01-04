@@ -1,4 +1,9 @@
+---
+permalink: nope
+---
+
 ![[Nope.jpg|200]]
+
 A Nope card is a rare exception to turns.
 You may play this at any time to cancel a card's action.
 > [!tip]

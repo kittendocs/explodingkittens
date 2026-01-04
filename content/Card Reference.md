@@ -1,3 +1,7 @@
+---
+permalink: cards
+---
+
 ## Attack
 ![[Attack]]
 ## Cat Card
