@@ -4,4 +4,4 @@ You may play this at any time to cancel a card's action.
 > [!tip]
 > You **can** nope a nope, resulting in ridiculous nope sequences. 
 
-You may **NOT** nope an [[Exploding Kitten]].
+You may **NOT** nope an [[Exploding Kitten]] or [[Defuse|Defuse card]].
